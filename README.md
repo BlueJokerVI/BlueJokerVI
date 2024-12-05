@@ -1,9 +1,9 @@
 ## RedMeat 今年干了啥呢o.0 ~ 🌱
 ### 交点代码
-<img algin=""  height="137px" src="https://github-readme-stats.vercel.app/api?username=BlueJokerVI&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,ee3f4d,FFD479,FFFC79,73FA79&theme=black&locale=cn" /><img algin="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueJokerVI&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+<img algin="" width="50%" height="137px" src="https://github-readme-stats.vercel.app/api?username=BlueJokerVI&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,ee3f4d,FFD479,FFFC79,73FA79&theme=black&locale=cn" /><img width="50%" algin="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueJokerVI&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
 ### 刷点小题
-![](https://leetcard.jacoblin.cool/bai-ai-ai?site=cn&theme=nord&ext=heatmap&hide=easy-solved-count,medium-solved-count,hard-solved-count)
+<img width="100%" height="300px" src="https://leetcard.jacoblin.cool/bai-ai-ai?site=cn&theme=nord&ext=heatmap&hide=easy-solved-count,medium-solved-count,hard-solved-count">
 
 <!--
 **BlueJokerVI/BlueJokerVI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
