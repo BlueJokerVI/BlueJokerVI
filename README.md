@@ -1,4 +1,6 @@
-## Hi there 👋
+ ## Hi there 👋
+ ![](https://github-readme-stats.vercel.app/api?username=RedMeat&show_icons=true&theme=transparent)
+
 
 <!--
 **BlueJokerVI/BlueJokerVI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
