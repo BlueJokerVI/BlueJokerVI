@@ -3,7 +3,7 @@
 
 今天不爱学习 🤣
 
-![BlueJokerVI's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlueJokerVI&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&theme=synthwave&locale=cn&card_width=600px)
+![BlueJokerVI's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlueJokerVI&count_private=true&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&theme=synthwave&locale=cn&card_width=600px)
 
 ### 🔭 你是什么选手 ？
 
